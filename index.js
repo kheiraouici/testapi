@@ -3,7 +3,7 @@ const express = require('express')
 /**creer execution du serveur express */
 const app = express()
 /**creer le port localhost */
-const port = 5000
+const port = 4000
 
 /**on va utliser serveur express */
 app.use(express.json());
